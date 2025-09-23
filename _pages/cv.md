@@ -15,19 +15,19 @@ Education
 * M.S. in Shenzhen International Graduate School, Tsinghua University, 2024
 * B.S. in Department of Electronic Engineering, Tsinghua University, 2021
 
-Research experience
-======
-* Jun. 2022-May. 2023: Research Assistant
-  * MSIIP Lab, Tsinghua University
-  * Research Project: Prompt based Automated ICD coding algorithm 
-
 
 Intern experience
 ======
-* Fall 2023: Research Intern
-  * Xiaomi Corporation
-  * Research Project: Autonomous Driving Planning Algorithms Based on Multimodal Large Model
+* Summer 2025: Amazon
+  * Personalized Simulation of Human Behaviors via RL-based LLM Agent in Online Shopping
+  
+* Fall 2023: Xiaomi Corporation
+  * Autonomous Driving Planning Algorithms Based on Multimodal Large Model
 
-* Fall 2021: Research Intern
-  * Megvii
-  * Research Project: Robustness of Face Recognition Models       
+* Fall 2021: Megvii
+  * Robustness of Face Recognition Models       
+
+Prior Research experience
+======
+* Jun. 2022-May. 2023: MSIIP Lab, Tsinghua University
+  * Medical Record Analysis & Automated ICD Coding 
