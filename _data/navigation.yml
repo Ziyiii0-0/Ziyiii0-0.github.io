@@ -23,5 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
+  - title: "Cat Pictures"
+    url: /cats/
+    
   # - title: "Guide"
   #   url: /markdown/
