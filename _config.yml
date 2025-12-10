@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ziyi Wang"
 title_separator          : "-"
 name                     : &name "Ziyi Wang"
-description              : &description "First-year PhD student"
+description              : &description "Second-year PhD student"
 url                      : "https://ziyiii0-0.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ziyiii0-0/ziyiii0-0.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "ZiyiGraduate.jpg"
   name             : "Ziyi Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student"
+  bio              : "CS PhD student"
   location         : "Boston"
   employer         : "Northeastern University"
   uri              : # URL
-  email            : #"wang.ziyi19@northeastern.edu" 
+  email            : "wang.ziyi19@northeastern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : ziyi.i.i
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ziyi-wang-b589162b0
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
