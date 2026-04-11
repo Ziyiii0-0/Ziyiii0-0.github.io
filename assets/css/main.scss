@@ -39,3 +39,72 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Sidebar cat section */
+.sidebar-cat {
+  margin-top: 1.4em;
+  padding-left: 15px;
+  padding-right: 25px;
+  text-align: left;
+
+  @media screen and (min-width: 1024px) {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+.sidebar-cat-pointer {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+  line-height: 1.4;
+}
+.sidebar-pointer-text {
+  font-size: 0.78em;
+  font-style: italic;
+  color: #666;
+}
+.sidebar-pointer-emoji {
+  font-size: 1.1em;
+  display: inline-block;
+  animation: sidebar-bounce 1s infinite;
+}
+.sidebar-pointer-up {
+  animation: sidebar-bounce-up 1s infinite;
+}
+@keyframes sidebar-bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(3px); }
+}
+@keyframes sidebar-bounce-up {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-3px); }
+}
+.sidebar-cat-glow {
+  display: inline-block;
+  border-radius: 12px;
+  padding: 3px;
+  margin: 5px 0;
+  background: linear-gradient(135deg, #f9c784, #f7a8d8, #a8c8f7, #a8f7c8);
+  background-size: 300% 300%;
+  animation: glowShift 3s ease infinite;
+  box-shadow: 0 0 14px 3px rgba(249, 180, 210, 0.45);
+}
+@keyframes glowShift {
+  0%   { background-position: 0% 50%; box-shadow: 0 0 14px 3px rgba(249,199,132,0.45); }
+  50%  { background-position: 100% 50%; box-shadow: 0 0 18px 5px rgba(168,200,247,0.55); }
+  100% { background-position: 0% 50%; box-shadow: 0 0 14px 3px rgba(249,199,132,0.45); }
+}
+.sidebar-cat-note {
+  font-size: 0.74em;
+  color: #999;
+  font-style: italic;
+  margin-top: 3px;
+}
+.sidebar-cat-glow img {
+  display: block;
+  width: 140px;
+  height: 140px;
+  border-radius: 10px;
+  object-fit: cover;
+}
