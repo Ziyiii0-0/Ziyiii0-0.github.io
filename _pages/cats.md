@@ -8,9 +8,9 @@ author_profile: true
 
 <div class="cat-profile">
   <div class="cat-profile-right">
-    <h2 class="cat-name">CakeCake <span>糕糕</span> 🎂</h2>
+    <h2 class="cat-name">Cakecake <span>糕糕</span></h2>
     <div class="cat-chips">
-      <span class="cat-chip">♀ Female</span>
+      <span class="cat-chip">Female</span>
       <span class="cat-chip">🐾 Munchkin</span>
       <span class="cat-chip">🎂 Aug 5, 2022</span>
     </div>

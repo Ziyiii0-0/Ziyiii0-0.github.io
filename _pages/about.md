@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ziyi 👋, a second-year Ph.D. student in Computer Science at Khoury College of Computer Sciences, **Northeastern University**, where I am fortunately advised by [Prof. Dakuo Wang](https://www.dakuowang.com/) at the [NEU HAI Lab](https://hailab.io/).
+Hi, I'm Ziyi 👋, a second-year Ph.D. student in Computer Science at the Khoury College of Computer Sciences, **Northeastern University**, where I am advised by [Prof. Dakuo Wang](https://www.dakuowang.com/) at the [NEU HAI Lab](https://hailab.io/).
 
 My research focuses on Natural Language Processing (NLP), with a particular focus on **Large Language Model (LLM) agents**. 🤖
 
