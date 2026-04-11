@@ -40,6 +40,49 @@ author_profile: true
     photos[j] = tmp;
   }
   photos.forEach(function(el) { gallery.appendChild(el); });
+
+  var emojis = ['💗','💗','💗','🎉','✨','😈','🐾','💕','⭐️','🌸'];
+
+  function spawnEmoji(x, y) {
+    var count = 12 + Math.floor(Math.random() * 6);
+    for (var i = 0; i < count; i++) {
+      (function(i) {
+        setTimeout(function() {
+          var ox = (Math.random() - 0.5) * 80;
+          var oy = (Math.random() - 0.5) * 80;
+          var el = document.createElement('span');
+          el.textContent = emojis[Math.floor(Math.random() * emojis.length)];
+          el.style.cssText = [
+            'position:fixed',
+            'left:' + (x + ox) + 'px',
+            'top:' + (y + oy) + 'px',
+            'font-size:' + (12 + Math.random() * 8) + 'px',
+            'pointer-events:none',
+            'user-select:none',
+            'z-index:9999',
+            'transition:none',
+          ].join(';');
+          document.body.appendChild(el);
+          var angle = (Math.random() * 2 * Math.PI);
+          var dist = 35 + Math.random() * 45;
+          var dx = Math.cos(angle) * dist;
+          var dy = Math.sin(angle) * dist - 25;
+          var duration = 1200 + Math.random() * 600;
+          requestAnimationFrame(function() {
+            el.style.transition = 'transform ' + duration + 'ms cubic-bezier(.2,.8,.4,1), opacity ' + duration + 'ms ease';
+            el.style.transform = 'translate(' + dx + 'px,' + dy + 'px) scale(1.3)';
+            el.style.opacity = '0';
+          });
+          setTimeout(function() { el.remove(); }, duration + 50);
+        }, i * 30);
+      })(i);
+    }
+  }
+
+  document.getElementById('catGallery').addEventListener('click', function(e) {
+    var photo = e.target.closest('.cat-photo');
+    if (photo) spawnEmoji(e.clientX, e.clientY);
+  });
 })();
 </script>
 

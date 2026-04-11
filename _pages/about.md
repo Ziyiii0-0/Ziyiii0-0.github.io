@@ -11,7 +11,7 @@ Hi, I'm Ziyi 👋, a second-year Ph.D. student in Computer Science at the Khoury
 
 My research focuses on Natural Language Processing (NLP), with a particular focus on **Large Language Model (LLM) agents**. 🤖
 
-Prior to joining Northeastern, I received my bachelor’s degree in Electronic Information Science and Technology and my master’s degree in Electronic Information from **Tsinghua University**. During my master’s studies, I was a member of the [MSIIP Lab](http://msiip.tsinghua.edu.cn/en/), where I was advised by [Prof. Ji Wu](https://scholar.google.com/citations?user=1V8LxbYAAAAJ&hl=en).
+Prior to joining Northeastern, I received my bachelor’s degree in Electronic Information Science and Technology and my master’s degree in Electronic and Information Engineering from **Tsinghua University**. During my master’s studies, I was a member of the [MSIIP Lab](http://msiip.tsinghua.edu.cn/en/), where I was advised by [Prof. Ji Wu](https://scholar.google.com/citations?user=1V8LxbYAAAAJ&hl=en).
 
 
 ## 📰 News
@@ -27,7 +27,7 @@ Prior to joining Northeastern, I received my bachelor’s degree in Electronic I
   </div>
   <div class="news-item">
     <span class="news-date">Dec 2025</span>
-    <span class="news-body">Travel to San Diego ✈️ and present our works (<a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a>, <a href="https://arxiv.org/abs/2507.17842" target="_blank">Shop-R1</a>, <a href="https://arxiv.org/abs/2510.19245" target="_blank">See-Think-Act</a>, <a href="https://arxiv.org/abs/2510.07230" target="_blank">Customer-R1</a>) on Multi-Turn Interaction LLM Workshop / the Scaling Environment Agent Workshop at <strong>NeurIPS 2025</strong>!</span>
+    <span class="news-body">Traveling to San Diego ✈️ and presenting our works (<a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a>, <a href="https://arxiv.org/abs/2507.17842" target="_blank">Shop-R1</a>, <a href="https://arxiv.org/abs/2510.19245" target="_blank">See-Think-Act</a>, <a href="https://arxiv.org/abs/2510.07230" target="_blank">Customer-R1</a>) on Multi-Turn Interaction LLM Workshop / the Scaling Environment Agent Workshop at <strong>NeurIPS 2025</strong>!</span>
   </div>
 </div>
 
