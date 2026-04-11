@@ -19,7 +19,7 @@ Prior to joining Northeastern, I received my bachelor’s degree in Electronic I
 <div class="news-section">
   <div class="news-item">
     <span class="news-date">Apr 2026</span>
-    <span class="news-body">Two of my first-authored papers (<a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a> and <a href="https://arxiv.org/abs/2601.20144" target="_blank">Trajectory2Task</a>) are accepted to <strong>ACL 2026</strong>! 🎉</span>
+    <span class="news-body">Two first-authored papers (<a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a> and <a href="https://arxiv.org/abs/2601.20144" target="_blank">Trajectory2Task</a>) are accepted to <strong>ACL 2026</strong>! 🎉</span>
   </div>
   <div class="news-item">
     <span class="news-date">Jan 2026</span>
@@ -27,7 +27,7 @@ Prior to joining Northeastern, I received my bachelor’s degree in Electronic I
   </div>
   <div class="news-item">
     <span class="news-date">Dec 2025</span>
-    <span class="news-body"><a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a>, <a href="https://arxiv.org/abs/2507.17842" target="_blank">Shop-R1</a>, <a href="https://arxiv.org/abs/2510.19245" target="_blank">See-Think-Act</a>, <a href="https://arxiv.org/abs/2510.07230" target="_blank">Customer-R1</a> accepted to workshops at <strong>NeurIPS 2025</strong>! Traveling to San Diego ✈️</span>
+    <span class="news-body"><a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a>, <a href="https://arxiv.org/abs/2507.17842" target="_blank">Shop-R1</a>, <a href="https://arxiv.org/abs/2510.19245" target="_blank">See-Think-Act</a>, <a href="https://arxiv.org/abs/2510.07230" target="_blank">Customer-R1</a> accepted to Multi-Turn Interaction LLM Workshop / the Scaling Environment Agent Workshop at <strong>NeurIPS 2025</strong>! Traveling to San Diego ✈️</span>
   </div>
 </div>
 
