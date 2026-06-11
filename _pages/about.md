@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I'm Ziyi 👋, a second-year Ph.D. student in Computer Science at the Khoury College of Computer Sciences, **Northeastern University**, where I am advised by [Prof. Dakuo Wang](https://www.dakuowang.com/) at the [NEU HAI Lab](https://hailab.io/).
 
-My research focuses on Natural Language Processing (NLP), with a particular focus on **Large Language Model (LLM) agents**. 🤖
+My research generally focuses on **LLM agents** 🤖, with recent emphasis on synthesizing data for tool-use training, post-training with SFT/RL to improve agent capabilities, and personalized simulation of human behavior.
 
 Prior to joining Northeastern, I received my bachelor’s degree in Electronic Information Science and Technology and my master’s degree in Electronic and Information Engineering from **Tsinghua University**. During my master’s studies, I was a member of the [MSIIP Lab](http://msiip.tsinghua.edu.cn/en/), where I was advised by [Prof. Ji Wu](https://scholar.google.com/citations?user=1V8LxbYAAAAJ&hl=en).
 
