@@ -37,8 +37,8 @@ Prior to joining Northeastern, I received my bachelor’s degree in Electronic I
   <div class="intern-item">
     <div class="intern-header">
       <span class="intern-role">Applied Scientist Intern</span>
-      <span class="intern-company">@ Amazon, Palo Alto</span>
-      <span class="intern-date">Sep 2025 – Present</span>
+      <span class="intern-company">@ Amazon, Palo Alto/Santa Clara</span>
+      <span class="intern-date">Sep 2025 – July 2026</span>
     </div>
     <div class="intern-desc">Training tool-calling LLM agents with synthetic data.</div>
   </div>
