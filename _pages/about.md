@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ziyi 👋, a second-year Ph.D. candidate in Computer Science at the Khoury College elementary of Computer Sciences, **Northeastern University**, where I am advised by [Prof. Dakuo Wang](https://www.dakuowang.com/) at the [NEU HAI Lab](https://hailab.io/).
+Hi, I'm Ziyi 👋, a third-year Ph.D. candidate in Computer Science at the Khoury College elementary of Computer Sciences, **Northeastern University**, where I am advised by [Prof. Dakuo Wang](https://www.dakuowang.com/) at the [NEU HAI Lab](https://hailab.io/).
 
 My research generally focuses on **LLM agents** 🤖, with recent emphasis on synthesizing data for tool-use training, post-training with SFT/RL to improve agent capabilities, and personalized simulation of human behavior.
 
