@@ -135,7 +135,7 @@ author_profile: true
 
 /* Gallery */
 .cat-gallery-wrap {
-  max-width: 640px;
+  max-width: 900px;
   max-height: 680px;
   overflow-y: auto;
   scrollbar-width: thin;
