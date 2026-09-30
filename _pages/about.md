@@ -18,6 +18,14 @@ Prior to joining Northeastern, I received my bachelor’s degree in Electronic I
 
 <div class="news-section">
   <div class="news-item">
+    <span class="news-date">Sep 2026</span>
+    <span class="news-body">Two co-authored papers (<a href="https://arxiv.org/abs/2605.17558" target="_blank">Firefly</a> and <a href="https://arxiv.org/abs/2607.05721" target="_blank">SpanUQ</a>) have been accepted to <strong>NeurIPS 2026</strong>! 🎉 Congrats and many thanks to all collaborators!</span>
+  </div>
+  <div class="news-item">
+    <span class="news-date">Jul 2026</span>
+    <span class="news-body">Reached candidacy! 🎓✨</span>
+  </div>
+  <div class="news-item">
     <span class="news-date">Apr 2026</span>
     <span class="news-body">Two first-authored papers (<a href="https://arxiv.org/abs/2506.05606" target="_blank">OPeRA</a> and <a href="https://arxiv.org/abs/2601.20144" target="_blank">Trajectory2Task</a>) are accepted to <strong>ACL 2026</strong>! 🎉</span>
   </div>
