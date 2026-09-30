@@ -150,7 +150,7 @@ author_profile: true
 }
 .cat-gallery {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 10px;
 }
 .cat-photo {
